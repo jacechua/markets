@@ -1,2 +1,2 @@
 # markets
-Information resources for understanding the financial markets.
+Informational resources for understanding the financial markets.
